@@ -1,5 +1,7 @@
 # Musiktidsresan
 
+> Ny uppdatering: avslutning, närvaro och automatisk städning beskrivs i [ROOM_LIFECYCLE.md](ROOM_LIFECYCLE.md). Den kräver migration 002 och schemaläggning 003 i Supabase. Dessa avsnitt ersätter äldre begränsningar om rumshantering nedan.
+
 Komplett React + Vite-projekt på svenska med GitHub Pages-workflow och Supabase SQL/backend. TV och mobiler läser samma beständiga rum via Supabase Realtime. Ingen Spotify API-integration och inga ljudfiler ingår.
 
 ## Uppdatering: Supabase anslutet
@@ -114,4 +116,5 @@ Efter publicering, testa båda spellägena med TV och två mobiler, rätt/fel/ut
 ## Licens
 
 Nyskriven projektkod är MIT-licensierad, se `LICENSE`. Wikidata-metadata är CC0. Externa tjänster, musik och typsnitt omfattas av respektive rättigheter och villkor. Inga rättigheter till musik eller Spotify-innehåll upplåts genom projektet.
+
 

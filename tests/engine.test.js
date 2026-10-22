@@ -26,6 +26,11 @@ test('classic turn and all-player eligibility',()=>{
  assert.equal(eligible(s,'a'),false);assert.equal(eligible(s,'b'),true);
  assert.equal(eligible({...s,mode:'all'},'a'),true);assert.equal(eligible({...s,phase:'reveal'},'b'),false);
 });
+test('removed players cannot guess in either mode',()=>{
+ const s={phase:'guess',mode:'all',turn:0,players:[{id:'a',removed:true},{id:'b'}]};
+ assert.equal(eligible(s,'a'),false);assert.equal(eligible(s,'b'),true);
+ assert.equal(eligible({...s,mode:'classic'},'a'),false);
+});
 test('complete demo, no reused songs, victory and immutable scoring',()=>{
  let s=demoStart(songs),seen=new Set(s.players[0].timeline.map(t=>t.id));s.target=3;
  for(let round=1;round<=3;round++){

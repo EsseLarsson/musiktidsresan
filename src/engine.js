@@ -9,7 +9,7 @@ export function shuffle(items, random = Math.random) {
   return result;
 }
 export function eligible(state, playerId) {
-  return state.phase === 'guess' && (state.mode === 'all' || state.players[state.turn % state.players.length]?.id === playerId);
+  return state.phase === 'guess' && state.players.some(p=>p.id===playerId&&!p.removed) && (state.mode === 'all' || state.players[state.turn % state.players.length]?.id === playerId);
 }
 export function demoStart(songs, mode='all') {
   const deck=shuffle(songs);
