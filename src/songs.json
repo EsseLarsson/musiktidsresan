@@ -1,0 +1,1802 @@
+[
+  {
+    "id": 1,
+    "wikidata": "1926-armstrong",
+    "title": "Heebie Jeebies",
+    "artist": "Louis Armstrong and His Hot Five",
+    "year": 1926,
+    "source": "https://eduscol.education.gouv.fr/chansonsquifontlhistoire/Heebie-Jeebies.html",
+    "verification": "Årtal 1926 kontrollerat mot franska utbildningsdepartementets Eduscol 2026-10-22"
+  },
+  {
+    "id": 2,
+    "wikidata": "Q3082552",
+    "title": "Nobody Knows You When You're Down and Out",
+    "artist": "Bessie Smith",
+    "year": 1929,
+    "source": "https://www.wikidata.org/wiki/Q3082552",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 3,
+    "wikidata": "Q3108535",
+    "title": "Rollin' and Tumblin'",
+    "artist": "Hambone Willie Newbern",
+    "year": 1929,
+    "source": "https://www.wikidata.org/wiki/Q3108535",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 4,
+    "wikidata": "Q7808986",
+    "title": "Tiptoe Through the Tulips",
+    "artist": "Nick Lucas",
+    "year": 1929,
+    "source": "https://www.wikidata.org/wiki/Q7808986",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad; artist normaliserad för original-/huvudversion, version och år behöver granskas"
+  },
+  {
+    "id": 5,
+    "wikidata": "Q11656913",
+    "title": "Hanshin Tigers no Uta",
+    "artist": "Eiichi Nakamura",
+    "year": 1936,
+    "source": "https://www.wikidata.org/wiki/Q11656913",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 6,
+    "wikidata": "Q1613836",
+    "title": "Night Time Is the Right Time",
+    "artist": "Roosevelt Sykes",
+    "year": 1937,
+    "source": "https://www.wikidata.org/wiki/Q1613836",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad; artist normaliserad för original-/huvudversion, version och år behöver granskas"
+  },
+  {
+    "id": 7,
+    "wikidata": "Q1408002",
+    "title": "Heart and Soul",
+    "artist": "Larry Clinton and His Orchestra feat. Bea Wain",
+    "year": 1938,
+    "source": "https://www.wikidata.org/wiki/Q1408002",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad; artist normaliserad för original-/huvudversion, version och år behöver granskas"
+  },
+  {
+    "id": 8,
+    "wikidata": "Q1872456",
+    "title": "Love in Vain",
+    "artist": "Robert Johnson",
+    "year": 1939,
+    "source": "https://www.wikidata.org/wiki/Q1872456",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 9,
+    "wikidata": "Q46524272",
+    "title": "Paris sera toujours Paris",
+    "artist": "Maurice Chevalier",
+    "year": 1939,
+    "source": "https://www.wikidata.org/wiki/Q46524272",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 10,
+    "wikidata": "Q1566239",
+    "title": "Maria Elena",
+    "artist": "Lorenzo Barcelata",
+    "year": 1941,
+    "source": "https://www.wikidata.org/wiki/Q1566239",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad; artist normaliserad för original-/huvudversion, version och år behöver granskas"
+  },
+  {
+    "id": 11,
+    "wikidata": "Q5986001",
+    "title": "Ich weiß, es wird einmal ein Wunder gescheh’n",
+    "artist": "Zarah Leander",
+    "year": 1942,
+    "source": "https://www.wikidata.org/wiki/Q5986001",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 12,
+    "wikidata": "Q4747586",
+    "title": "Amor",
+    "artist": "Bing Crosby",
+    "year": 1944,
+    "source": "https://www.wikidata.org/wiki/Q4747586",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 13,
+    "wikidata": "Q1026491",
+    "title": "Caldonia",
+    "artist": "Louis Jordan",
+    "year": 1945,
+    "source": "https://www.wikidata.org/wiki/Q1026491",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 14,
+    "wikidata": "Q5307475",
+    "title": "Driftin' Blues",
+    "artist": "Johnny Moore's Three Blazers",
+    "year": 1945,
+    "source": "https://www.wikidata.org/wiki/Q5307475",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 15,
+    "wikidata": "Q592963",
+    "title": "Let the Good Times Roll",
+    "artist": "Louis Jordan",
+    "year": 1946,
+    "source": "https://www.wikidata.org/wiki/Q592963",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 16,
+    "wikidata": "Q2429502",
+    "title": "3 O'Clock Blues",
+    "artist": "Lowell Fulson",
+    "year": 1948,
+    "source": "https://www.wikidata.org/wiki/Q2429502",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 17,
+    "wikidata": "Q1640654",
+    "title": "All I Want for Christmas Is My Two Front Teeth",
+    "artist": "Spike Jones",
+    "year": 1948,
+    "source": "https://www.wikidata.org/wiki/Q1640654",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 18,
+    "wikidata": "Q1382277",
+    "title": "Every Day I Have the Blues",
+    "artist": "Memphis Slim",
+    "year": 1949,
+    "source": "https://www.wikidata.org/wiki/Q1382277",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 19,
+    "wikidata": "Q7045884",
+    "title": "Nobody's Child",
+    "artist": "Hank Snow",
+    "year": 1949,
+    "source": "https://www.wikidata.org/wiki/Q7045884",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 20,
+    "wikidata": "Q1728520",
+    "title": "Saturday Night Fish Fry",
+    "artist": "Louis Jordan",
+    "year": 1949,
+    "source": "https://www.wikidata.org/wiki/Q1728520",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 21,
+    "wikidata": "Q1586351",
+    "title": "The Third Man Theme",
+    "artist": "Anton Karas",
+    "year": 1949,
+    "source": "https://www.wikidata.org/wiki/Q1586351",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 22,
+    "wikidata": "Q281624",
+    "title": "Earth Angel",
+    "artist": "The Penguins",
+    "year": 1954,
+    "source": "https://www.wikidata.org/wiki/Q281624",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 23,
+    "wikidata": "Q931296",
+    "title": "Mr. Sandman",
+    "artist": "The Chordettes",
+    "year": 1954,
+    "source": "https://www.wikidata.org/wiki/Q931296",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 24,
+    "wikidata": "Q552098",
+    "title": "Rock Around the Clock",
+    "artist": "Bill Haley & His Comets",
+    "year": 1954,
+    "source": "https://www.wikidata.org/wiki/Q552098",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 25,
+    "wikidata": "Q2080355",
+    "title": "Maybellene",
+    "artist": "Chuck Berry",
+    "year": 1955,
+    "source": "https://www.wikidata.org/wiki/Q2080355",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 26,
+    "wikidata": "Q898499",
+    "title": "I Can't Quit You Baby",
+    "artist": "Otis Rush",
+    "year": 1956,
+    "source": "https://www.wikidata.org/wiki/Q898499",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 27,
+    "wikidata": "Q82525",
+    "title": "Im Wartesaal zum großen Glück",
+    "artist": "Walter Andreas Schwarz",
+    "year": 1956,
+    "source": "https://www.wikidata.org/wiki/Q82525",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 28,
+    "wikidata": "Q257915",
+    "title": "Qué Será, Será",
+    "artist": "Doris Day",
+    "year": 1956,
+    "source": "https://www.wikidata.org/wiki/Q257915",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 29,
+    "wikidata": "Q2449301",
+    "title": "Corde della mia chitarra",
+    "artist": "Nunzio Gallo",
+    "year": 1957,
+    "source": "https://www.wikidata.org/wiki/Q2449301",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 30,
+    "wikidata": "Q1208770",
+    "title": "Diana",
+    "artist": "Paul Anka",
+    "year": 1957,
+    "source": "https://www.wikidata.org/wiki/Q1208770",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 31,
+    "wikidata": "Q1454909",
+    "title": "Peggy Sue",
+    "artist": "Buddy Holly",
+    "year": 1957,
+    "source": "https://www.wikidata.org/wiki/Q1454909",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 32,
+    "wikidata": "Q1424827",
+    "title": "Straatdeuntje",
+    "artist": "Bobbejaan Schoepen",
+    "year": 1957,
+    "source": "https://www.wikidata.org/wiki/Q1424827",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 33,
+    "wikidata": "Q5251956",
+    "title": "That'll Be the Day",
+    "artist": "The Crickets",
+    "year": 1957,
+    "source": "https://www.wikidata.org/wiki/Q5251956",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad; artist normaliserad för original-/huvudversion, version och år behöver granskas"
+  },
+  {
+    "id": 34,
+    "wikidata": "Q1083159",
+    "title": "Tom Pillibi",
+    "artist": "Jacqueline Boyer",
+    "year": 1960,
+    "source": "https://www.wikidata.org/wiki/Q1083159",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 35,
+    "wikidata": "Q1700350",
+    "title": "La Paloma",
+    "artist": "Elvis Presley",
+    "year": 1962,
+    "source": "https://www.wikidata.org/wiki/Q1700350",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 36,
+    "wikidata": "Q842176",
+    "title": "Good Vibrations",
+    "artist": "The Beach Boys",
+    "year": 1966,
+    "source": "https://www.wikidata.org/wiki/Q842176",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 37,
+    "wikidata": "Q835454",
+    "title": "Guantanamera",
+    "artist": "The Sandpipers",
+    "year": 1966,
+    "source": "https://www.wikidata.org/wiki/Q835454",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 38,
+    "wikidata": "Q1046717",
+    "title": "Paint It Black",
+    "artist": "The Rolling Stones",
+    "year": 1966,
+    "source": "https://www.wikidata.org/wiki/Q1046717",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 39,
+    "wikidata": "Q830073",
+    "title": "Arnold Layne",
+    "artist": "Pink Floyd",
+    "year": 1967,
+    "source": "https://www.wikidata.org/wiki/Q830073",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 40,
+    "wikidata": "Q903649",
+    "title": "Break On Through",
+    "artist": "The Doors",
+    "year": 1967,
+    "source": "https://www.wikidata.org/wiki/Q903649",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 41,
+    "wikidata": "Q836681",
+    "title": "Give Peace a Chance",
+    "artist": "Plastic Ono Band",
+    "year": 1969,
+    "source": "https://www.wikidata.org/wiki/Q836681",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 42,
+    "wikidata": "Q581952",
+    "title": "Space Oddity",
+    "artist": "David Bowie",
+    "year": 1969,
+    "source": "https://www.wikidata.org/wiki/Q581952",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 43,
+    "wikidata": "Q1073719",
+    "title": "I'll Be There",
+    "artist": "The Jackson 5",
+    "year": 1970,
+    "source": "https://www.wikidata.org/wiki/Q1073719",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 44,
+    "wikidata": "Q1783363",
+    "title": "Immigrant Song",
+    "artist": "Led Zeppelin",
+    "year": 1970,
+    "source": "https://www.wikidata.org/wiki/Q1783363",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 45,
+    "wikidata": "Q958795",
+    "title": "Working Class Hero",
+    "artist": "John Lennon",
+    "year": 1970,
+    "source": "https://www.wikidata.org/wiki/Q958795",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 46,
+    "wikidata": "Q510066",
+    "title": "Riders on the Storm",
+    "artist": "The Doors",
+    "year": 1971,
+    "source": "https://www.wikidata.org/wiki/Q510066",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 47,
+    "wikidata": "Q920366",
+    "title": "Vincent",
+    "artist": "Don McLean",
+    "year": 1971,
+    "source": "https://www.wikidata.org/wiki/Q920366",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 48,
+    "wikidata": "Q49522",
+    "title": "Ben",
+    "artist": "Michael Jackson",
+    "year": 1972,
+    "source": "https://www.wikidata.org/wiki/Q49522",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 49,
+    "wikidata": "Q686850",
+    "title": "Dream On",
+    "artist": "Aerosmith",
+    "year": 1973,
+    "source": "https://www.wikidata.org/wiki/Q686850",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 50,
+    "wikidata": "Q251304",
+    "title": "Free Bird",
+    "artist": "Lynyrd Skynyrd",
+    "year": 1973,
+    "source": "https://en.wikipedia.org/wiki/Free_Bird",
+    "verification": "Albumutgivning 1973, källkontrollerad 2026-10-22"
+  },
+  {
+    "id": 51,
+    "wikidata": "Q1049271",
+    "title": "Liar",
+    "artist": "Queen",
+    "year": 1973,
+    "source": "https://www.wikidata.org/wiki/Q1049271",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 52,
+    "wikidata": "Q829960",
+    "title": "Killer Queen",
+    "artist": "Queen",
+    "year": 1974,
+    "source": "https://www.queenonline.com/features/a-night-at-the-odeon-now-im-here-by-rosie-horide",
+    "verification": "Årtal kontrollerat mot QueenOnline: utgiven 11 oktober 1974"
+  },
+  {
+    "id": 53,
+    "wikidata": "Q838317",
+    "title": "Have a Cigar",
+    "artist": "Pink Floyd",
+    "year": 1975,
+    "source": "https://www.pinkfloyd.com/albums/wish-you-were-here/",
+    "verification": "Årtal kontrollerat mot Pink Floyds albumkatalog: september 1975"
+  },
+  {
+    "id": 54,
+    "wikidata": "Q1131308",
+    "title": "Mamma Mia",
+    "artist": "ABBA",
+    "year": 1975,
+    "source": "https://www.wikidata.org/wiki/Q1131308",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 55,
+    "wikidata": "Q744564",
+    "title": "Somebody to Love",
+    "artist": "Queen",
+    "year": 1976,
+    "source": "https://www.wikidata.org/wiki/Q744564",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 56,
+    "wikidata": "Q839848",
+    "title": "You're My Best Friend",
+    "artist": "Queen",
+    "year": 1976,
+    "source": "https://www.wikidata.org/wiki/Q839848",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 57,
+    "wikidata": "Q568065",
+    "title": "Another One Bites the Dust",
+    "artist": "Queen",
+    "year": 1980,
+    "source": "https://www.wikidata.org/wiki/Q568065",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 58,
+    "wikidata": "Q210218",
+    "title": "Beat It",
+    "artist": "Michael Jackson",
+    "year": 1983,
+    "source": "https://www.wikidata.org/wiki/Q210218",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 59,
+    "wikidata": "Q1330171",
+    "title": "Every Breath You Take",
+    "artist": "The Police",
+    "year": 1983,
+    "source": "https://www.wikidata.org/wiki/Q1330171",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 60,
+    "wikidata": "Q725537",
+    "title": "Say Say Say",
+    "artist": "Paul McCartney",
+    "year": 1983,
+    "source": "https://www.wikidata.org/wiki/Q725537",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 61,
+    "wikidata": "Q1752956",
+    "title": "Fade to Black",
+    "artist": "Metallica",
+    "year": 1984,
+    "source": "https://www.wikidata.org/wiki/Q1752956",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 62,
+    "wikidata": "Q1129368",
+    "title": "For Whom the Bell Tolls",
+    "artist": "Metallica",
+    "year": 1984,
+    "source": "https://www.wikidata.org/wiki/Q1129368",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 63,
+    "wikidata": "Q1033415",
+    "title": "Hammer to Fall",
+    "artist": "Queen",
+    "year": 1984,
+    "source": "https://www.wikidata.org/wiki/Q1033415",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 64,
+    "wikidata": "Q1165404",
+    "title": "Money for Nothing",
+    "artist": "Dire Straits",
+    "year": 1985,
+    "source": "https://www.wikidata.org/wiki/Q1165404",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 65,
+    "wikidata": "Q308895",
+    "title": "We Are the World",
+    "artist": "USA for Africa",
+    "year": 1985,
+    "source": "https://www.wikidata.org/wiki/Q308895",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 66,
+    "wikidata": "Q1003996",
+    "title": "Friends Will Be Friends",
+    "artist": "Queen",
+    "year": 1986,
+    "source": "https://www.wikidata.org/wiki/Q1003996",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 67,
+    "wikidata": "Q1342432",
+    "title": "Live to Tell",
+    "artist": "Madonna",
+    "year": 1986,
+    "source": "https://www.wikidata.org/wiki/Q1342432",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 68,
+    "wikidata": "Q1894466",
+    "title": "Livin' on a Prayer",
+    "artist": "Bon Jovi",
+    "year": 1986,
+    "source": "https://www.wikidata.org/wiki/Q1894466",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 69,
+    "wikidata": "Q1137622",
+    "title": "Papa Don't Preach",
+    "artist": "Madonna",
+    "year": 1986,
+    "source": "https://www.wikidata.org/wiki/Q1137622",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 70,
+    "wikidata": "Q807917",
+    "title": "Barcelona",
+    "artist": "Freddie Mercury",
+    "year": 1987,
+    "source": "https://www.wikidata.org/wiki/Q807917",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 71,
+    "wikidata": "Q367376",
+    "title": "I Should Be So Lucky",
+    "artist": "Kylie Minogue",
+    "year": 1987,
+    "source": "https://www.wikidata.org/wiki/Q367376",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 72,
+    "wikidata": "Q939998",
+    "title": "La Isla Bonita",
+    "artist": "Madonna",
+    "year": 1987,
+    "source": "https://www.wikidata.org/wiki/Q939998",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 73,
+    "wikidata": "Q568004",
+    "title": "Another Day in Paradise",
+    "artist": "Phil Collins",
+    "year": 1989,
+    "source": "https://www.wikidata.org/wiki/Q568004",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 74,
+    "wikidata": "Q849262",
+    "title": "Breakthru",
+    "artist": "Queen",
+    "year": 1989,
+    "source": "https://www.wikidata.org/wiki/Q849262",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 75,
+    "wikidata": "Q582091",
+    "title": "Express Yourself",
+    "artist": "Madonna",
+    "year": 1989,
+    "source": "https://www.wikidata.org/wiki/Q582091",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 76,
+    "wikidata": "Q544294",
+    "title": "I Want It All",
+    "artist": "Queen",
+    "year": 1989,
+    "source": "https://www.wikidata.org/wiki/Q544294",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 77,
+    "wikidata": "Q1420677",
+    "title": "Like a Prayer",
+    "artist": "Madonna",
+    "year": 1989,
+    "source": "https://www.wikidata.org/wiki/Q1420677",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 78,
+    "wikidata": "Q938656",
+    "title": "One",
+    "artist": "Metallica",
+    "year": 1989,
+    "source": "https://www.wikidata.org/wiki/Q938656",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 79,
+    "wikidata": "Q279097",
+    "title": "Enjoy the Silence",
+    "artist": "Depeche Mode",
+    "year": 1990,
+    "source": "https://www.wikidata.org/wiki/Q279097",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 80,
+    "wikidata": "Q66057605",
+    "title": "Enter Sandman",
+    "artist": "Metallica",
+    "year": 1991,
+    "source": "https://www.wikidata.org/wiki/Q66057605",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 81,
+    "wikidata": "Q616255",
+    "title": "Headlong",
+    "artist": "Queen",
+    "year": 1991,
+    "source": "https://www.wikidata.org/wiki/Q616255",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 82,
+    "wikidata": "Q565479",
+    "title": "I'm Going Slightly Mad",
+    "artist": "Queen",
+    "year": 1991,
+    "source": "https://www.wikidata.org/wiki/Q565479",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 83,
+    "wikidata": "Q611381",
+    "title": "Innuendo",
+    "artist": "Queen",
+    "year": 1991,
+    "source": "https://www.wikidata.org/wiki/Q611381",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 84,
+    "wikidata": "Q901333",
+    "title": "Losing My Religion",
+    "artist": "R.E.M.",
+    "year": 1991,
+    "source": "https://www.wikidata.org/wiki/Q901333",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 85,
+    "wikidata": "Q517591",
+    "title": "The Show Must Go On",
+    "artist": "Queen",
+    "year": 1991,
+    "source": "https://www.wikidata.org/wiki/Q517591",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 86,
+    "wikidata": "Q910487",
+    "title": "Come as You Are",
+    "artist": "Nirvana",
+    "year": 1992,
+    "source": "https://www.wikidata.org/wiki/Q910487",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 87,
+    "wikidata": "Q66057506",
+    "title": "Nothing Else Matters",
+    "artist": "Metallica",
+    "year": 1992,
+    "source": "https://www.wikidata.org/wiki/Q66057506",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 88,
+    "wikidata": "Q1165194",
+    "title": "One",
+    "artist": "U2",
+    "year": 1992,
+    "source": "https://www.wikidata.org/wiki/Q1165194",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 89,
+    "wikidata": "Q169298",
+    "title": "Zombie",
+    "artist": "The Cranberries",
+    "year": 1994,
+    "source": "https://www.wikidata.org/wiki/Q169298",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 90,
+    "wikidata": "Q153202",
+    "title": "Con te partirò",
+    "artist": "Andrea Bocelli",
+    "year": 1995,
+    "source": "https://www.wikidata.org/wiki/Q153202",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 91,
+    "wikidata": "Q164599",
+    "title": "Earth Song",
+    "artist": "Michael Jackson",
+    "year": 1995,
+    "source": "https://www.wikidata.org/wiki/Q164599",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 92,
+    "wikidata": "Q1493554",
+    "title": "Gangsta's Paradise",
+    "artist": "Coolio",
+    "year": 1995,
+    "source": "https://www.wikidata.org/wiki/Q1493554",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 93,
+    "wikidata": "Q900790",
+    "title": "Where the Wild Roses Grow",
+    "artist": "Nick Cave and the Bad Seeds & Kylie Minogue",
+    "year": 1995,
+    "source": "https://www.wikidata.org/wiki/Q900790",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad; artist normaliserad för original-/huvudversion, version och år behöver granskas"
+  },
+  {
+    "id": 94,
+    "wikidata": "Q300973",
+    "title": "You Are Not Alone",
+    "artist": "Michael Jackson",
+    "year": 1995,
+    "source": "https://www.wikidata.org/wiki/Q300973",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 95,
+    "wikidata": "Q159348",
+    "title": "They Don't Care About Us",
+    "artist": "Michael Jackson",
+    "year": 1996,
+    "source": "https://www.wikidata.org/wiki/Q159348",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 96,
+    "wikidata": "Q753118",
+    "title": "Du hast",
+    "artist": "Rammstein",
+    "year": 1997,
+    "source": "https://www.wikidata.org/wiki/Q753118",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 97,
+    "wikidata": "Q750399",
+    "title": "HIStory/Ghosts",
+    "artist": "Michael Jackson",
+    "year": 1997,
+    "source": "https://www.wikidata.org/wiki/Q750399",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 98,
+    "wikidata": "Q85357",
+    "title": "Song 2",
+    "artist": "Blur",
+    "year": 1997,
+    "source": "https://www.wikidata.org/wiki/Q85357",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 99,
+    "wikidata": "Q158585",
+    "title": "(You Drive Me) Crazy",
+    "artist": "Britney Spears",
+    "year": 1999,
+    "source": "https://www.wikidata.org/wiki/Q158585",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 100,
+    "wikidata": "Q733917",
+    "title": "Born to Make You Happy",
+    "artist": "Britney Spears",
+    "year": 1999,
+    "source": "https://www.wikidata.org/wiki/Q733917",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 101,
+    "wikidata": "Q19995",
+    "title": "One Step Closer",
+    "artist": "Linkin Park",
+    "year": 2000,
+    "source": "https://www.wikidata.org/wiki/Q19995",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 102,
+    "wikidata": "Q577097",
+    "title": "Spinning Around",
+    "artist": "Kylie Minogue",
+    "year": 2000,
+    "source": "https://www.wikidata.org/wiki/Q577097",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 103,
+    "wikidata": "Q312122",
+    "title": "Stan",
+    "artist": "Eminem",
+    "year": 2000,
+    "source": "https://www.wikidata.org/wiki/Q312122",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 104,
+    "wikidata": "Q529026",
+    "title": "Yellow",
+    "artist": "Coldplay",
+    "year": 2000,
+    "source": "https://www.wikidata.org/wiki/Q529026",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 105,
+    "wikidata": "Q155029",
+    "title": "Can't Get You Out of My Head",
+    "artist": "Kylie Minogue",
+    "year": 2001,
+    "source": "https://www.wikidata.org/wiki/Q155029",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 106,
+    "wikidata": "Q842880",
+    "title": "Chop Suey!",
+    "artist": "System of a Down",
+    "year": 2001,
+    "source": "https://www.wikidata.org/wiki/Q842880",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 107,
+    "wikidata": "Q108368458",
+    "title": "Crawling",
+    "artist": "Linkin Park",
+    "year": 2001,
+    "source": "https://www.wikidata.org/wiki/Q108368458",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 108,
+    "wikidata": "Q20003",
+    "title": "In the End",
+    "artist": "Linkin Park",
+    "year": 2001,
+    "source": "https://www.wikidata.org/wiki/Q20003",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 109,
+    "wikidata": "Q19998",
+    "title": "Papercut",
+    "artist": "Linkin Park",
+    "year": 2001,
+    "source": "https://www.wikidata.org/wiki/Q19998",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 110,
+    "wikidata": "Q300976",
+    "title": "You Rock My World",
+    "artist": "Michael Jackson",
+    "year": 2001,
+    "source": "https://www.wikidata.org/wiki/Q300976",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 111,
+    "wikidata": "Q723841",
+    "title": "Come into My World",
+    "artist": "Kylie Minogue",
+    "year": 2002,
+    "source": "https://www.wikidata.org/wiki/Q723841",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 112,
+    "wikidata": "Q543362",
+    "title": "Complicated",
+    "artist": "Avril Lavigne",
+    "year": 2002,
+    "source": "https://www.wikidata.org/wiki/Q543362",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 113,
+    "wikidata": "Q834275",
+    "title": "I'm with You",
+    "artist": "Avril Lavigne",
+    "year": 2002,
+    "source": "https://www.wikidata.org/wiki/Q834275",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 114,
+    "wikidata": "Q625701",
+    "title": "In Your Eyes",
+    "artist": "Kylie Minogue",
+    "year": 2002,
+    "source": "https://www.wikidata.org/wiki/Q625701",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 115,
+    "wikidata": "Q957616",
+    "title": "Lose Yourself",
+    "artist": "Eminem",
+    "year": 2002,
+    "source": "https://www.wikidata.org/wiki/Q957616",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 116,
+    "wikidata": "Q726638",
+    "title": "Love at First Sight",
+    "artist": "Kylie Minogue",
+    "year": 2002,
+    "source": "https://www.wikidata.org/wiki/Q726638",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 117,
+    "wikidata": "Q543058",
+    "title": "Sk8er Boi",
+    "artist": "Avril Lavigne",
+    "year": 2002,
+    "source": "https://www.wikidata.org/wiki/Q543058",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 118,
+    "wikidata": "Q303783",
+    "title": "Bring Me to Life",
+    "artist": "Evanescence feat. Paul McCoy",
+    "year": 2003,
+    "source": "https://www.wikidata.org/wiki/Q303783",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad; artist normaliserad för original-/huvudversion, version och år behöver granskas"
+  },
+  {
+    "id": 119,
+    "wikidata": "Q20004",
+    "title": "Faint",
+    "artist": "Linkin Park",
+    "year": 2003,
+    "source": "https://www.wikidata.org/wiki/Q20004",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 120,
+    "wikidata": "Q19973",
+    "title": "Numb",
+    "artist": "Linkin Park",
+    "year": 2003,
+    "source": "https://www.wikidata.org/wiki/Q19973",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 121,
+    "wikidata": "Q1420378",
+    "title": "Seven Nation Army",
+    "artist": "The White Stripes",
+    "year": 2003,
+    "source": "https://www.wikidata.org/wiki/Q1420378",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 122,
+    "wikidata": "Q628674",
+    "title": "Slow",
+    "artist": "Kylie Minogue",
+    "year": 2003,
+    "source": "https://www.wikidata.org/wiki/Q628674",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 123,
+    "wikidata": "Q19976",
+    "title": "Somewhere I Belong",
+    "artist": "Linkin Park",
+    "year": 2003,
+    "source": "https://www.wikidata.org/wiki/Q19976",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 124,
+    "wikidata": "Q1641812",
+    "title": "Boulevard of Broken Dreams",
+    "artist": "Green Day",
+    "year": 2004,
+    "source": "https://www.wikidata.org/wiki/Q1641812",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 125,
+    "wikidata": "Q19978",
+    "title": "Breaking the Habit",
+    "artist": "Linkin Park",
+    "year": 2004,
+    "source": "https://www.wikidata.org/wiki/Q19978",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 126,
+    "wikidata": "Q285623",
+    "title": "Red Blooded Woman",
+    "artist": "Kylie Minogue",
+    "year": 2004,
+    "source": "https://www.wikidata.org/wiki/Q285623",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 127,
+    "wikidata": "Q379751",
+    "title": "Toxic",
+    "artist": "Britney Spears",
+    "year": 2004,
+    "source": "https://www.wikidata.org/wiki/Q379751",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 128,
+    "wikidata": "Q846315",
+    "title": "Wild Dances",
+    "artist": "Ruslana Lyzhychko",
+    "year": 2004,
+    "source": "https://www.wikidata.org/wiki/Q846315",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 129,
+    "wikidata": "Q1407276",
+    "title": "Hung Up",
+    "artist": "Madonna",
+    "year": 2005,
+    "source": "https://www.wikidata.org/wiki/Q1407276",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 130,
+    "wikidata": "Q1751842",
+    "title": "Wake Me Up When September Ends",
+    "artist": "Green Day",
+    "year": 2005,
+    "source": "https://www.wikidata.org/wiki/Q1751842",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 131,
+    "wikidata": "Q653920",
+    "title": "All Good Things (Come to an End)",
+    "artist": "Nelly Furtado",
+    "year": 2006,
+    "source": "https://www.wikidata.org/wiki/Q653920",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 132,
+    "wikidata": "Q746665",
+    "title": "Jump",
+    "artist": "Madonna",
+    "year": 2006,
+    "source": "https://www.wikidata.org/wiki/Q746665",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 133,
+    "wikidata": "Q257517",
+    "title": "Rehab",
+    "artist": "Amy Winehouse",
+    "year": 2006,
+    "source": "https://www.wikidata.org/wiki/Q257517",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 134,
+    "wikidata": "Q7468830",
+    "title": "Apologize",
+    "artist": "Timbaland feat. OneRepublic",
+    "year": 2007,
+    "source": "https://www.wikidata.org/wiki/Q7468830",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad; artist normaliserad för original-/huvudversion, version och år behöver granskas"
+  },
+  {
+    "id": 135,
+    "wikidata": "Q19981",
+    "title": "Bleed It Out",
+    "artist": "Linkin Park",
+    "year": 2007,
+    "source": "https://www.wikidata.org/wiki/Q19981",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 136,
+    "wikidata": "Q738474",
+    "title": "Girlfriend",
+    "artist": "Avril Lavigne",
+    "year": 2007,
+    "source": "https://www.wikidata.org/wiki/Q738474",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 137,
+    "wikidata": "Q19980",
+    "title": "What I've Done",
+    "artist": "Linkin Park",
+    "year": 2007,
+    "source": "https://www.wikidata.org/wiki/Q19980",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 138,
+    "wikidata": "Q685457",
+    "title": "4 Minutes",
+    "artist": "Madonna",
+    "year": 2008,
+    "source": "https://www.wikidata.org/wiki/Q685457",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 139,
+    "wikidata": "Q844214",
+    "title": "Hot n Cold",
+    "artist": "Katy Perry",
+    "year": 2008,
+    "source": "https://www.wikidata.org/wiki/Q844214",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 140,
+    "wikidata": "Q155512",
+    "title": "I Kissed a Girl",
+    "artist": "Katy Perry",
+    "year": 2008,
+    "source": "https://www.wikidata.org/wiki/Q155512",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 141,
+    "wikidata": "Q147722",
+    "title": "If I Were a Boy",
+    "artist": "Beyoncé",
+    "year": 2008,
+    "source": "https://www.wikidata.org/wiki/Q147722",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad; artist normaliserad för original-/huvudversion, version och år behöver granskas"
+  },
+  {
+    "id": 142,
+    "wikidata": "Q189007",
+    "title": "Just Dance",
+    "artist": "Lady Gaga feat. Colby O’Donis",
+    "year": 2008,
+    "source": "https://www.wikidata.org/wiki/Q189007",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad; artist normaliserad för original-/huvudversion, version och år behöver granskas"
+  },
+  {
+    "id": 143,
+    "wikidata": "Q19984",
+    "title": "Leave Out All the Rest",
+    "artist": "Linkin Park",
+    "year": 2008,
+    "source": "https://www.wikidata.org/wiki/Q19984",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 144,
+    "wikidata": "Q229553",
+    "title": "3",
+    "artist": "Britney Spears",
+    "year": 2009,
+    "source": "https://www.wikidata.org/wiki/Q229553",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 145,
+    "wikidata": "Q19985",
+    "title": "New Divide",
+    "artist": "Linkin Park",
+    "year": 2009,
+    "source": "https://www.wikidata.org/wiki/Q19985",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 146,
+    "wikidata": "Q164100",
+    "title": "Tik Tok",
+    "artist": "Kesha",
+    "year": 2009,
+    "source": "https://www.wikidata.org/wiki/Q164100",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 147,
+    "wikidata": "Q638134",
+    "title": "All the Lovers",
+    "artist": "Kylie Minogue",
+    "year": 2010,
+    "source": "https://www.wikidata.org/wiki/Q638134",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 148,
+    "wikidata": "Q155586",
+    "title": "California Gurls",
+    "artist": "Katy Perry feat. Snoop Dogg",
+    "year": 2010,
+    "source": "https://www.wikidata.org/wiki/Q155586",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad; artist normaliserad för original-/huvudversion, version och år behöver granskas"
+  },
+  {
+    "id": 149,
+    "wikidata": "Q163412",
+    "title": "Firework",
+    "artist": "Katy Perry",
+    "year": 2010,
+    "source": "https://www.wikidata.org/wiki/Q163412",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 150,
+    "wikidata": "Q155006",
+    "title": "Love the Way You Lie",
+    "artist": "Eminem",
+    "year": 2010,
+    "source": "https://www.wikidata.org/wiki/Q155006",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 151,
+    "wikidata": "Q835192",
+    "title": "Teenage Dream",
+    "artist": "Katy Perry",
+    "year": 2010,
+    "source": "https://www.wikidata.org/wiki/Q835192",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 152,
+    "wikidata": "Q155894",
+    "title": "Waka Waka (This Time for Africa)",
+    "artist": "Shakira feat. Freshlyground",
+    "year": 2010,
+    "source": "https://www.wikidata.org/wiki/Q155894",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad; artist normaliserad för original-/huvudversion, version och år behöver granskas"
+  },
+  {
+    "id": 153,
+    "wikidata": "Q130826",
+    "title": "Criminal",
+    "artist": "Britney Spears",
+    "year": 2011,
+    "source": "https://www.wikidata.org/wiki/Q130826",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 154,
+    "wikidata": "Q124967",
+    "title": "E.T.",
+    "artist": "Katy Perry",
+    "year": 2011,
+    "source": "https://www.wikidata.org/wiki/Q124967",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 155,
+    "wikidata": "Q115800",
+    "title": "Hold It Against Me",
+    "artist": "Britney Spears",
+    "year": 2011,
+    "source": "https://www.wikidata.org/wiki/Q115800",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 156,
+    "wikidata": "Q179715",
+    "title": "I Wanna Go",
+    "artist": "Britney Spears",
+    "year": 2011,
+    "source": "https://www.wikidata.org/wiki/Q179715",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 157,
+    "wikidata": "Q746875",
+    "title": "Last Friday Night (T.G.I.F.)",
+    "artist": "Katy Perry",
+    "year": 2011,
+    "source": "https://www.wikidata.org/wiki/Q746875",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 158,
+    "wikidata": "Q166904",
+    "title": "Someone Like You",
+    "artist": "Adele",
+    "year": 2011,
+    "source": "https://www.wikidata.org/wiki/Q166904",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 159,
+    "wikidata": "Q184920",
+    "title": "Till the World Ends",
+    "artist": "Britney Spears",
+    "year": 2011,
+    "source": "https://www.wikidata.org/wiki/Q184920",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 160,
+    "wikidata": "Q27979",
+    "title": "What Makes You Beautiful",
+    "artist": "One Direction",
+    "year": 2011,
+    "source": "https://www.wikidata.org/wiki/Q27979",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 161,
+    "wikidata": "Q737958",
+    "title": "What the Hell",
+    "artist": "Avril Lavigne",
+    "year": 2011,
+    "source": "https://www.wikidata.org/wiki/Q737958",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 162,
+    "wikidata": "Q890",
+    "title": "Gangnam Style",
+    "artist": "Psy",
+    "year": 2012,
+    "source": "https://www.wikidata.org/wiki/Q890",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 163,
+    "wikidata": "Q264286",
+    "title": "Girl Gone Wild",
+    "artist": "Madonna",
+    "year": 2012,
+    "source": "https://www.wikidata.org/wiki/Q264286",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 164,
+    "wikidata": "Q746862",
+    "title": "Give Me All Your Luvin'",
+    "artist": "Madonna",
+    "year": 2012,
+    "source": "https://www.wikidata.org/wiki/Q746862",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 165,
+    "wikidata": "Q1256838",
+    "title": "We Are Never Ever Getting Back Together",
+    "artist": "Taylor Swift",
+    "year": 2012,
+    "source": "https://www.wikidata.org/wiki/Q1256838",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 166,
+    "wikidata": "Q720620",
+    "title": "22",
+    "artist": "Taylor Swift",
+    "year": 2013,
+    "source": "https://www.wikidata.org/wiki/Q720620",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 167,
+    "wikidata": "Q15077646",
+    "title": "Do What U Want",
+    "artist": "Lady Gaga feat. R. Kelly",
+    "year": 2013,
+    "source": "https://www.wikidata.org/wiki/Q15077646",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad; artist normaliserad för original-/huvudversion, version och år behöver granskas"
+  },
+  {
+    "id": 168,
+    "wikidata": "Q10856905",
+    "title": "Gentleman",
+    "artist": "Psy",
+    "year": 2013,
+    "source": "https://www.wikidata.org/wiki/Q10856905",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 169,
+    "wikidata": "Q14559271",
+    "title": "Roar",
+    "artist": "Katy Perry",
+    "year": 2013,
+    "source": "https://www.wikidata.org/wiki/Q14559271",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 170,
+    "wikidata": "Q13557314",
+    "title": "Wake Me Up",
+    "artist": "Avicii",
+    "year": 2013,
+    "source": "https://www.wikidata.org/wiki/Q13557314",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 171,
+    "wikidata": "Q18441355",
+    "title": "Blank Space",
+    "artist": "Taylor Swift",
+    "year": 2014,
+    "source": "https://www.wikidata.org/wiki/Q18441355",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 172,
+    "wikidata": "Q16028874",
+    "title": "Chandelier",
+    "artist": "Sia",
+    "year": 2014,
+    "source": "https://www.wikidata.org/wiki/Q16028874",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 173,
+    "wikidata": "Q17544624",
+    "title": "Shake It Off",
+    "artist": "Taylor Swift",
+    "year": 2014,
+    "source": "https://www.wikidata.org/wiki/Q17544624",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 174,
+    "wikidata": "Q19892111",
+    "title": "Bad Blood",
+    "artist": "Taylor Swift",
+    "year": 2015,
+    "source": "https://www.wikidata.org/wiki/Q19892111",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 175,
+    "wikidata": "Q21172725",
+    "title": "Hello",
+    "artist": "Adele",
+    "year": 2015,
+    "source": "https://www.wikidata.org/wiki/Q21172725",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 176,
+    "wikidata": "Q19756862",
+    "title": "See You Again",
+    "artist": "Wiz Khalifa feat. Charlie Puth",
+    "year": 2015,
+    "source": "https://www.wikidata.org/wiki/Q19756862",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad; artist normaliserad för original-/huvudversion, version och år behöver granskas"
+  },
+  {
+    "id": 177,
+    "wikidata": "Q28132505",
+    "title": "Shape of You",
+    "artist": "Ed Sheeran",
+    "year": 2017,
+    "source": "https://www.wikidata.org/wiki/Q28132505",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 178,
+    "wikidata": "Q56770393",
+    "title": "Shallow",
+    "artist": "Lady Gaga & Bradley Cooper",
+    "year": 2018,
+    "source": "https://www.wikidata.org/wiki/Q56770393",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad; artist normaliserad för original-/huvudversion, version och år behöver granskas"
+  },
+  {
+    "id": 179,
+    "wikidata": "Q98073193",
+    "title": "Dynamite",
+    "artist": "BTS",
+    "year": 2020,
+    "source": "https://www.wikidata.org/wiki/Q98073193",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 180,
+    "wikidata": "Q94557088",
+    "title": "Rain on Me",
+    "artist": "Lady Gaga & Ariana Grande",
+    "year": 2020,
+    "source": "https://www.wikidata.org/wiki/Q94557088",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad; artist normaliserad för original-/huvudversion, version och år behöver granskas"
+  },
+  {
+    "id": 181,
+    "wikidata": "Q108805763",
+    "title": "Easy on Me",
+    "artist": "Adele",
+    "year": 2021,
+    "source": "https://www.wikidata.org/wiki/Q108805763",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 182,
+    "wikidata": "Q110984212",
+    "title": "Stefania",
+    "artist": "Kalush Orchestra",
+    "year": 2022,
+    "source": "https://www.wikidata.org/wiki/Q110984212",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 183,
+    "wikidata": "Q132308704",
+    "title": "Espresso Macchiato",
+    "artist": "Tommy Cash",
+    "year": 2024,
+    "source": "https://www.wikidata.org/wiki/Q132308704",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 184,
+    "wikidata": "Q131991079",
+    "title": "Asteromata",
+    "artist": "Klavdia",
+    "year": 2025,
+    "source": "https://www.wikidata.org/wiki/Q131991079",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 185,
+    "wikidata": "Q138312762",
+    "title": "Ēnā",
+    "artist": "Atvara",
+    "year": 2025,
+    "source": "https://www.wikidata.org/wiki/Q138312762",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 186,
+    "wikidata": "Q133095777",
+    "title": "Hallucination",
+    "artist": "Sissal",
+    "year": 2025,
+    "source": "https://www.wikidata.org/wiki/Q133095777",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 187,
+    "wikidata": "Q131806742",
+    "title": "Ich komme",
+    "artist": "Erika Vikman",
+    "year": 2025,
+    "source": "https://www.wikidata.org/wiki/Q131806742",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 188,
+    "wikidata": "Q137883024",
+    "title": "Mother Nature",
+    "artist": "Eva Marija",
+    "year": 2025,
+    "source": "https://www.wikidata.org/wiki/Q137883024",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 189,
+    "wikidata": "Q132891015",
+    "title": "New Day Will Rise",
+    "artist": "Yuval Raphael",
+    "year": 2025,
+    "source": "https://www.wikidata.org/wiki/Q132891015",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 190,
+    "wikidata": "Q136438329",
+    "title": "Opalite",
+    "artist": "Taylor Swift",
+    "year": 2025,
+    "source": "https://www.wikidata.org/wiki/Q136438329",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 191,
+    "wikidata": "Q132183467",
+    "title": "Serving",
+    "artist": "Miriana Conte",
+    "year": 2025,
+    "source": "https://www.wikidata.org/wiki/Q132183467",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 192,
+    "wikidata": "Q133260152",
+    "title": "Shh",
+    "artist": "Theo Evan",
+    "year": 2025,
+    "source": "https://www.wikidata.org/wiki/Q133260152",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 193,
+    "wikidata": "Q132200510",
+    "title": "Volevo essere un duro",
+    "artist": "Lucio Corsi",
+    "year": 2025,
+    "source": "https://www.wikidata.org/wiki/Q132200510",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 194,
+    "wikidata": "Q133249761",
+    "title": "Voyage",
+    "artist": "Zoë Më",
+    "year": 2025,
+    "source": "https://www.wikidata.org/wiki/Q133249761",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 195,
+    "wikidata": "Q138666487",
+    "title": "Bangaranga",
+    "artist": "Dara",
+    "year": 2026,
+    "source": "https://www.wikidata.org/wiki/Q138666487",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 196,
+    "wikidata": "Q137808425",
+    "title": "Bella",
+    "artist": "Aidan Cassar",
+    "year": 2026,
+    "source": "https://www.wikidata.org/wiki/Q137808425",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 197,
+    "wikidata": "Q138568837",
+    "title": "Choke Me",
+    "artist": "Alexandra Căpitănescu",
+    "year": 2026,
+    "source": "https://www.wikidata.org/wiki/Q138568837",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 198,
+    "wikidata": "Q139736014",
+    "title": "Dai Dai",
+    "artist": "Shakira & Burna Boy",
+    "year": 2026,
+    "source": "https://www.wikidata.org/wiki/Q139736014",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad; artist normaliserad för original-/huvudversion, version och år behöver granskas"
+  },
+  {
+    "id": 199,
+    "wikidata": "Q138312998",
+    "title": "Ferto",
+    "artist": "Akylas",
+    "year": 2026,
+    "source": "https://www.wikidata.org/wiki/Q138312998",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  },
+  {
+    "id": 200,
+    "wikidata": "Q138312718",
+    "title": "Før vi går hjem",
+    "artist": "Søren Torpegaard Lund",
+    "year": 2026,
+    "source": "https://www.wikidata.org/wiki/Q138312718",
+    "verification": "Wikidata P577, hämtad 2026-10-22; ej manuellt dubbelgranskad"
+  }
+]
