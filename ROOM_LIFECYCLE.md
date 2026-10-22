@@ -31,3 +31,11 @@ Närvaron omfattar anslutningen till spelet, inte om Spotify spelar ljud. Flera 
 Lokala PostgreSQL-tester bevisar inte att pg_cron är aktiverat i ditt Supabase-projekt. Kontrollera `cron.job` efter aktivering. Se körningar/fel under Supabase Cron eller `cron.job_run_details`. Slutlig kontroll i riktig Supabase och med mobiler behövs efter installationen.
 
 Källor: [Supabase Cron](https://supabase.com/docs/guides/cron), [schemaläggning](https://supabase.com/docs/guides/cron/quickstart), [anonyma användare och städning](https://supabase.com/docs/guides/auth/auth-anonymous).
+
+## Produktionsverifiering 2026-10-22
+
+Databasuppdateringen och pg_cron-jobbet är nu aktiverade i det anslutna projektet. Jobbet musiktidsresan-cleanup är aktivt och kör varje timme vid minut 17. Båda spellägena testades med två oberoende anonyma klienter mot riktig Auth/RPC/Realtime: närvaro, rättning, poäng, borttagningsbehörighet, skydd mot fortsatt rumsavläsning efter borttagning och avslutning passerade. Befintliga fem rum och 200 låtar fanns kvar direkt efter installationen. GitHub Pages levererar kod med rumskontroller, heartbeat och Spotify-knapp. Webbläsaren verifierade rumsskapande, anslutningsstatus och synlig avslutningsknapp. Själva bekräftelsedialogen kunde inte automatiseras tillförlitligt; testets rum avslutades via samma serverfunktion i stället.
+
+Städlogiken är testad lokalt med tidsförskjutna testdata. Schemalagd körning i produktion har ännu inte inväntats. En extra omedelbar manuell städkörning nekades av automatisk säkerhetsgranskning eftersom den kunde radera andra äldre rum/konton; den utfördes inte.
+
+Säkerhetskontrollen visade en befintlig RLS-eventtrigger med onödig klientåtkomst. Den åtkomsten återkallades. Kvarvarande informationsmeddelanden om privata tabeller utan läspolicy och varningar om avsiktligt tillgängliga behörighetskontrollerade spel-RPC:er samt anonyma spelidentiteter är förenliga med designen. Lösenordsläckageskydd är inte aktiverat; spelet använder enbart anonym inloggning. Se [Supabases funktionskontroll](https://supabase.com/docs/guides/database/database-linter?lint=0029_authenticated_security_definer_function_executable).
