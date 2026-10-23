@@ -1,8 +1,14 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import fs from 'node:fs';
+import {trackLink} from '../src/spotify.js';
 import {correct,shuffle,eligible,demoStart,demoSubmit,demoNext} from '../src/engine.js';
 const songs=JSON.parse(fs.readFileSync(new URL('../src/songs.json',import.meta.url)));
+test('Spotify links normalize shared/locale URLs and reject search, albums and foreign hosts',()=>{
+ const id='2TxCwUlqaOH3TIyJqGgR91';
+ assert.equal(trackLink(`https://open.spotify.com/intl-sv/track/${id}?si=hello`),`https://open.spotify.com/track/${id}`);
+ for(const u of ['https://evil.example/track/'+id,'javascript:alert(1)','https://open.spotify.com/album/'+id,'https://open.spotify.com/search/foo'])assert.equal(trackLink(u),null);
+});
 test('placement boundaries, equal years and invalid positions',()=>{
  const t=[{year:1960},{year:1980},{year:2000}];
  assert.equal(correct(1950,t,0),true);assert.equal(correct(1970,t,1),true);assert.equal(correct(2026,t,3),true);
